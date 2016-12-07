@@ -1,0 +1,1 @@
+/Users/pippa/.config/fisherman/bass/functions/bass.fish
